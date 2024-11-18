@@ -1,0 +1,5 @@
+packages:
+  - 'microservicioAuth'
+  - 'microservicioEditor'
+  - 'microservicioVotaciones'
+  - 'participacion-ciudadana'

@@ -1,0 +1,37 @@
+{
+  "name": "participacion-ciudadana",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@editorjs/header": "^2.8.7",
+    "@editorjs/image": "^2.9.3",
+    "@editorjs/link": "^2.6.2",
+    "@editorjs/list": "^1.10.0",
+    "@editorjs/marker": "^1.4.0",
+    "@editorjs/raw": "^2.5.0",
+    "@editorjs/table": "^2.3.0",
+    "axios": "^1.7.4",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "editorjs-react-renderer": "^3.5.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.3",
+    "next": "^15.0.0-rc.0",
+    "react": "^19.0.0-rc-a19a8ab4-20240829",
+    "react-dom": "^19.0.0-rc-a19a8ab4-20240829",
+    "react-icons": "^5.3.0",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.9",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}

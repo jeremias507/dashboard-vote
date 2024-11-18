@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom-dark {
+  background-color: #181d22;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.highlight {
+  background-color: yellow; /* Estilo para resaltar el texto */
+}
+
+body {
+  background-color: #0D369B;
+}
+
